@@ -4,8 +4,8 @@ Run application
 
 1. npm install
 
-2. npm run start
-   //to run app
+2. run server with npm run server command
 
-3. npm run test
-   //to run tests
+3. run client app with npm run start
+
+4. run tests with npm run test
